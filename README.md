@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/React-Query-FF4154?style=flat-square&logo=React-Query&logoColor=white" />
 
  <h4> Contact Me </h4>
+   <a href="mailto:github.com/JooKangsan" target="_blank">
+    <img src="https://img.shields.io/badge/JooKangSan-black?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
   <a href="mailto:you04042@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/you04042-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
@@ -25,5 +28,12 @@
 <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jookangsan)](https://velog.io/@jookangsan/posts)
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JooKangsan&show_icons=true&&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JooKangsan&hide_border=true" />
+</div>
 
 </div>
